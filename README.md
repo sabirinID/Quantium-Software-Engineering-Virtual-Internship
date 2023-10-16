@@ -7,20 +7,21 @@ Create a dashboard for you client, Soul Foods, to help them track the profitabil
 ---
 
 ## Tasks
+
 1. Set Up Your Local Development Environment
-Initialise your local development environment to begin work on the program
+  > Initialise your local development environment to begin work on the program
 
 2. Data Processing
-Prepare a messy dataset for visualisation
+  > Prepare a messy dataset for visualisation
 
 3. Create a Dash Application
-Create an interactive data visualisation using Dash
+  > Create an interactive data visualisation using Dash
 
 4. Improve Your Dash Application
-Make your visualiser interactive — and beautiful
+  > Make your visualiser interactive — and beautiful
 
 5. Test Your Dash Application
-Write a test suite for your visualiser
+  > Write a test suite for your visualiser
 
 6. Automate Your Test Suite (Bonus Task)
-Write a script to programmatically execute your test suite
+  > Write a script to programmatically execute your test suite
