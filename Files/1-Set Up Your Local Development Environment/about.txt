@@ -38,4 +38,14 @@ With little more than a few requirements and a messy data set to reference, it’s
 	Dash Installation
 	https://dash.plotly.com/installation
 
-# 
+# Example Answer
+Great work! Check out this github link to see an example answer: https://github.com/vagabond-systems/quantium-task-1-model-answer
+
+Use the example answer to:
+
+	Learn how a professional would complete this task.
+	Ensure you’ve understood the key concepts of the task.
+	Reflect on what you did well and where you can improve.
+
+# Nice work!
+You just completed Task 1 of the Software Engineering Job Simulation 
