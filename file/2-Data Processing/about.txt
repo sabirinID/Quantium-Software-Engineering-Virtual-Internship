@@ -40,4 +40,5 @@ By way of illustration, Soul Foods has asked the question, “Were sales higher be
 # Example Answer
 Great work! Check out the example answer here: https://github.com/vagabond-systems/quantium-task-2-model-answer
 
-
+# Nice work!
+You just completed Task 2 of the Software Engineering Job Simulation
