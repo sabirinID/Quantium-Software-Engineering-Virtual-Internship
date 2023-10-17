@@ -31,4 +31,8 @@ Think of it as showing affection to your visualiser, dressing it up before you p
 	Dash Layout
 	https://dash.plotly.com/layout
 
-# 
+# Example Answer
+Great work! Here is the example answer: https://github.com/vagabond-systems/quantium-task-4-model-answer
+
+# Nice work!
+You just completed Task 4 of the Software Engineering Job Simulation
