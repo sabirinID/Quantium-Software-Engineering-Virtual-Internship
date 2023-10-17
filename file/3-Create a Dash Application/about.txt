@@ -30,4 +30,8 @@ In this case, we want to figure out what impact the price increase of Pink Morse
 	Dash Enterprise App Gallery
 	https://dash.gallery/Portal/
 
-# 
+# Example Answer
+Great work! Check out the example answer here: https://github.com/vagabond-systems/quantium-task-3-model-answer
+
+# Nice work!
+You just completed Task 3 of the Software Engineering Job Simulation
