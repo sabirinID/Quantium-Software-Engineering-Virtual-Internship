@@ -37,5 +37,7 @@ By way of illustration, Soul Foods has asked the question, “Were sales higher be
 	Reading and Writing CSV Files in Python
 	https://realpython.com/python-csv/
 
-# 
+# Example Answer
+Great work! Check out the example answer here: https://github.com/vagabond-systems/quantium-task-2-model-answer
+
 
