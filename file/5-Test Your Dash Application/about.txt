@@ -35,4 +35,8 @@ It’s one of the many boons of good testing, more of which are described in the l
 	The Clean Code Blog
 	https://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html
 
-# 
+# Example Answer
+Nice! Here is the example answer: https://github.com/vagabond-systems/quantium-task-5-model-answer
+
+# Nice work!
+You just completed Task 5 of the Software Engineering Job Simulation
