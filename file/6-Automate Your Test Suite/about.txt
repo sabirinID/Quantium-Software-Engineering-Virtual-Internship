@@ -50,3 +50,8 @@ When you’ve finished implementing your bash script, commit and push your changes
 	https://tldp.org/LDP/abs/html/
 
 Submit the github repo URL here: 
+
+# Example Answer
+Nice work! Check out the example answer here: https://github.com/vagabond-systems/quantium-task-6-model-answer
+
+# Final Task Complete!
